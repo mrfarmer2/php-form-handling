@@ -1,5 +1,5 @@
 # PHP Form Handling (Not for Logins)
-This is a test for handling PHP forms for goongroupstudio.com.
+This is for handling PHP forms for goongroupstudio.com.
 
 
 ## Use cases
